@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-LOG_DIR="~/.jenkins/war/help/LogRecorder"
+LOG_DIR="/home/pglab/Desktop/storeLogs"
 BACKUP_DIR="/home/pglab/Desktop/backupDir"
 RETENTION_DAYS=7
 DATE=$(date +'%Y-%m-%d')
